@@ -1,0 +1,26 @@
+.pagination .dt-paging-button.page-item.active .page-link {
+    background-color: #000000;
+    color: #ffffff;
+    border: 0px;
+    margin: 1px;
+}
+.pagination .dt-paging-button.page-item .page-link {
+    background-color: #222222;
+    color: #ffffff;
+    border: 0px;
+    margin: 1px;
+}
+
+.bg-outline-dark {
+    background-color: #222222 !important; /* Sesuaikan dengan warna latar belakang yang diinginkan */
+    color: #ffffff !important; /* Sesuaikan dengan warna teks yang diinginkan */
+}
+
+.bg-outline-warning {
+    background-color: #ffc107 !important; /* Sesuaikan dengan warna latar belakang yang diinginkan */
+    color: #000000 !important; /* Sesuaikan dengan warna teks yang diinginkan */
+}
+.nav-link.active{
+    background-color: #222222;
+    color: #ffffff;
+}
